@@ -1,2 +1,2 @@
 # Buffer Overflows
-Fuzzing, Shellcode and Exploitation scripts.
+Exploitation scripts.
